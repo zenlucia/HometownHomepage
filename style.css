@@ -28,6 +28,7 @@ body {
     position: fixed;
     color: #fd7e14;
     padding: 10px;
+    text-shadow: 1px 1px 3px grey;
 }
 
 /*bottom text with transparent background*/
@@ -101,7 +102,7 @@ body {
 }
 
 .place-text {
-    color: #fd7e14;
+    color: #ECE1D8;
     font-size: 30px;
     width: 100%;
     display: flex;
